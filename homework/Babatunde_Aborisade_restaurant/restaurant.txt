@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> My favorite restaurants!</title>
+</head>
+<style>
+body  {
+    background-image: url("https://jooinn.com/images/blur-restaurant-2.png");
+    background-color: #cccccc;
+}
+</style>
+  <body>
+<h2 style="color:white;"><u>My top 5 favorite restaurants!</u>
+</h2>
+<div>
+<a href="my_kitchen.html">My Kitchen</a>
+<ol>
+      <li><a href="https://www.moes.com/" target="_blank"> Moes</a> </li>
+      <li><a href="https://www.tacobell.com/" target="_blank"> Taco Bell</a> </li>
+      <li><a href="http://thecornertaqueria.com/" target="_blank">The Corner Taqueria</a> </li>
+      <li><a href="https://www.pandaexpress.com/" target="_blank">Panda Express</a> </li>
+      <li><a href="https://www.redlobster.com/" target="_blank"> Red Lobster</a> </li>
+    </ol>
+</div>
+
+<div>
+  <h2 style="color:white;"><u>The locations i like to eat at!</u>
+  </h2>
+    <table>
+<tr>
+  <th><u>City</u></th>
+  <th><u>State</u></th>
+</tr>
+<tr>
+  <td> Carrollton</td>
+  <td>Georgia</td>
+</tr>
+<tr>
+  <td> Kennesaw</td>
+<td>Georgia</td>
+</tr>
+<tr>
+  <td> Atlanta</td>
+  <td>Georgia</td>
+</tr>
+<tr>
+  <td> Austell</td>
+  <td>Georgia</td>
+</tr>
+</table>
+</div>
+<div>
+<h2 style="color:white;"><u>Contact Information:</u></h2>
+<form action"/action.php">
+First name: <br>
+<input type="text" name="firstname" value="">
+<br>
+Last name:<br>
+<input type="text" name="lastname" value="">
+<br>
+Email Address:<br>
+<input type="email" name="Email Address" value="">
+<br>
+Comments:<br>
+<input type="text" name="Comments" value="">
+<br>
+<input type="submit" value="Submit">
+</form>
+</div>
+</body>
+</html>

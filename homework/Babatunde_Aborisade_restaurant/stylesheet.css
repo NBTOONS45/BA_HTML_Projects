@@ -1,0 +1,9 @@
+ol {
+  color: orange;
+}
+a visited {
+  color: red;
+}
+a:hover {
+  color: green;
+}
